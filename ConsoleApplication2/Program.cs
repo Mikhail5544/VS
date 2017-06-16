@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2
+namespace GitHubTest
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git Hub!");
         }
     }
 }
